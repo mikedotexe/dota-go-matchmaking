@@ -5,7 +5,3 @@ This repo is trying out the `go-steam` and `go-dota2` modules, which seem to be 
 ## Usage
 
     go run main.go
-	
-## Ouch, for me
-
-I consistently am getting `operation timed out` and am trying to figure out if it has to do with an outdated CM server list, but am unfamiliar so far.
